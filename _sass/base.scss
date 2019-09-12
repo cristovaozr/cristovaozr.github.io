@@ -17,7 +17,7 @@ body {
   background: $body-background url("../assets/bkg.png") 0 0;
   color: $body-foreground;
   font-size: 16px;
-  line-height: 1.5;
+  // line-height: 1.0;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
@@ -271,10 +271,26 @@ a:active, a:focus {
 
 .pagination, footer {
   height: 50px;
-  line-height: 50px;
+  // line-height: 50px;
   text-align: center;
 }
 
 #wrapper {
   min-height: calc(100vh - 100px);
+}
+
+img.avatar {
+  border-radius: 50%;
+  max-width: 100px;
+  max-height: 100px;
+}
+
+img.social-network-img {
+  border-radius: 50%;
+  max-width: 36px;
+  max-height: 36px;
+}
+
+a.simple-link {
+  text-decoration-line: none;
 }

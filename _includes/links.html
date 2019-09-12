@@ -7,8 +7,13 @@
 <a href="{{ "/atom.xml" | prepend: site.baseurl | replace: '//', '/' }}">
     <h2 class="header-link">RSS</h2>
 </a>
-<p>
-    <span>Links: 
-        <a href="https://linkedin.com/in/cristovaozr" class="social-network-link">LinkedIn</a>
+    <span>
+        <p>
+            <a class="social-network-link" href="https://linkedin.com/in/cristovaozr" target="_blank">
+                <img class="social-network-img" src="{{ "../assets/linkedin.png" | | prepend: site.baseurl | replace: '//', '/' }}"> 
+            </a>
+            <a class="social-network-link" href="https://github.com/cristovaozr" target="_blank">
+                <img class="social-network-img" src="{{ "../assets/github-logo.png" | | prepend: site.baseurl | replace: '//', '/' }}"> 
+            </a>
+        </p>
     </span>
-</p>

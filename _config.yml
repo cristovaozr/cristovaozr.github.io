@@ -1,9 +1,9 @@
 title: Blog - Cristóvão Rufino
 description: "Linux, embedded systems, DIY and more..."
 author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+  name: "Cristóvão Rufino"
+  # email: "someone@somewebsite.somedomain"
+  url: "cristovaozr.github.io/"
 
 baseurl: /
 
