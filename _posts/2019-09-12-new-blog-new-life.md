@@ -3,8 +3,6 @@ title: New blog, new life
 published: true
 ---
 
-# New blog, new life
-
 Ahhh! New space for a blog. Actually `github.io` has been around for a while but I never payed enough attention. I'm migrating my old blog from WordPress to here. Since I am brazillian some posts will be done in portuguese and some in english.
 
 Most of my posts are, until now, in portuguese. This is due to the fact that exists little portuguese language posts of the type of content I like to work with. So this blog exists, mostly, to provide content about embedded systems **in portuguese**. Another reason for the existence of this blog is that it provides me a space to share what I do with the world and to serve as portifolio of my personal projects.
@@ -23,9 +21,9 @@ Due to the amount of services we have online it's very common to have many accou
 
 No. You won't find me on Facebook. Yes -- I used to have an account there but it's been three years and I don't miss a bit of the social network.
 
-### My blog is abount development hobbies -- WordPress is no well suited for that
+### My blog is abount development hobbies -- WordPress is not well suited for that
 
-I can blog here in Markdown -- adding snipets of code is as easy as pie. WordPress also has Markdown but it is not as straightforward as here.
+I can blog here in Markdown -- adding snipets of code is as easy as pie. WordPress also has Markdown but it is not as straightforward as it is here.
 
 ### Conclusion
 
