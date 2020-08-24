@@ -4,27 +4,27 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Hello there! Glad you wanted to learn a little about this blog!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+My name is Cristóvão Rufino. I'm a brazilian based computer engineer that loves embedded software development and free software. I currently work as a sofrware engineer for CESAR at Recife, Pernambuco. On my spare time I do my own projects and learn a thing or two about this huge area that is embedded systems and, more recently, IoT.
 
-There are currently two themes built on Poole:
+If you wish to contact me please do so by using my [LinkedIn profile](https://linkedin.com/in/cristovaozr).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Most of my code can be found on GitHub. Feel free to browse it and use in your projects!
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Most of my posts will be in english. I choose to do this beacuse english is the most used language in the internet. By doing so I can have a greater audience. But I also miss some content in my native language: portuguese. Therefore some of my content will be in portuguese. I can ocasionally post the same article twice: in portuguese and in english. My code, however will be always in english (including commentaries).
 
-## Setup
+Hope you enjoy!
 
-Some fun facts about the setup of this project include:
+---
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+Meu nome é Cristóvão Rufino. Sou um engenheiro de software de Recife, Pernambuco que ama software embarcado e software livre. Atualmente trabalho como engenheiro de software no CESAR. No meu tempo livre faço meus projetos e aprendo uma coisa ou outra dessa área enorme que é sistemas embarcado e, mais recentemente, IoT.
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+Se você deseja me contactar pode-se fazer por meu [perfil do LinkedIn](https://linkedin.com/in/cristovaozr).
 
-Thanks for reading!
+O código-fonte da maior parte dos projetos pode ser encontrado no GitHub. Pode ir lá olhar a vontade e, quem sabe, usar nos seus projetos!
+
+A maior parte dos meus posts será em inglês. Faço isso porque inglês é a lingua mais utilizada na internet. Portanto desse modo atinjo um maior público. Mas também sinto falta de conteúdos em português. Portanto parte do meu conteúdo será em português. Eu vez ou outra postarei o mesmo conteúdo duas vezes: em português e em inglês. Meu código-fonte, no entano, será em ingês (como deve ser!).
+
+Espero que aproveitem!
