@@ -19,6 +19,12 @@ Hope you enjoy!
 
 ---
 
+# Sobre
+
+<p class="message">
+Olá! Fico feliz que você quis saber mais um pouco sobre esse blog!
+</p>
+
 Meu nome é Cristóvão Rufino. Sou um engenheiro de software de Recife, Pernambuco que ama software embarcado e software livre. Atualmente trabalho como engenheiro de software no CESAR. No meu tempo livre faço meus projetos e aprendo uma coisa ou outra dessa área enorme que é sistemas embarcado e, mais recentemente, IoT.
 
 Se você deseja me contactar pode-se fazer por meu [perfil do LinkedIn](https://linkedin.com/in/cristovaozr).
